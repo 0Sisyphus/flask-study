@@ -35,5 +35,3 @@ api.add_resource(CustomField, '/custom_field')
 if __name__ == '__main__':
     app.run(debug=True)
 
-# todo 学习 文件上传、下载，导出等
-
